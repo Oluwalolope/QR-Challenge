@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(173, 173, 255);
+    padding-top: 100px;
+}
+div {
+    border-radius: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    
+}
+h1 {
+    color: rgb(48, 48, 73);
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+p {
+    text-align: center;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 12px;
+    color: rgb(194, 183, 183);
+}
+.qr {
+    width: 280px;
+    height: 250px;
+    color: black;
+    background-image: url(images/image-qr-code.png);
+    background-size: contain;
+    background-position: center;
+}
+footer p {
+    color: black;
+}
